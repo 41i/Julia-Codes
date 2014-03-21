@@ -1,4 +1,5 @@
-====Parallel Linear Algebraic Routines for Julia====
+Parallel Linear Algebraic Routines for Julia
+============================================
 
 Abstract
 ---------
